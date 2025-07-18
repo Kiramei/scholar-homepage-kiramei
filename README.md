@@ -1,51 +1,72 @@
-# [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
+# This is the scholar Site for Kiramei
 
-[![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/)
+> This Site is still on Developing!
 
-The Hugo **Academic CV Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
+<div id="title" align=center>
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/templates/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/GetResearchDev)
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, Hugo Blox Builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+<div style="padding-bottom:150px">
+<img src="https://raw.githubusercontent.com/Kiramei/Kiramei/refs/heads/main/logo_r.png" style="width:150px;" />
+</div>
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+<span id="spacing" align=center style="height:200px"></span>
 
-[Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [get inspired by our academics and research groups](https://hugoblox.com/creators/).
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![C/C++](https://img.shields.io/badge/C/C++-00599C?style=flat\&logo=c\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=java\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat\&logo=c-sharp\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat\&logo=css3\&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat\&logo=android\&logoColor=white)
 
-The integrated [**Hugo Blox Builder**](https://hugoblox.com) and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6E42B1?style=flat\&logo=pytorch\&logoColor=white)
+![Diffusion Models](https://img.shields.io/badge/Diffusion%20Models-AA00FF?style=flat)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-008080?style=flat\&logo=opencv\&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-F9A825?style=flat\&logo=fastapi\&logoColor=white)
+![Frontend](https://img.shields.io/badge/Frontend-1E88E5?style=flat\&logo=vue.js\&logoColor=white)
 
-- 👉 [**Get Started**](https://hugoblox.com/templates/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox Builder community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithHugoBlox](https://twitter.com/search?q=%23MadeWithHugoBlox&src=typed_query)
-- ⬇️ **Automatically import your publications from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 💡 [Suggest an improvement](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+[![Website](https://img.shields.io/badge/Web-kiramei.cn-blue?logo=google-chrome\&logoColor=white)](https://kiramei.cn)
+[![SZUEA](https://img.shields.io/badge/SZUEA-Official-orange?logo=github)](https://www.szuea.com)
+[![Email](https://img.shields.io/badge/Email-m17080854343@gmail.com-red?logo=gmail\&logoColor=white)](mailto:m17080854343@gmail.com)
 
-## We ask you, humbly, to support this open source movement
+![二次元](https://img.shields.io/badge/二次元-love?style=flat&color=%23000004)
+![アニメ](https://img.shields.io/badge/アニメ-watching?style=flat&color=%231c0c45)
+![マンガ](https://img.shields.io/badge/マンガ-reading?style=flat&color=%2351127c)
+![音楽](https://img.shields.io/badge/オタク-playing?style=flat&color=%23832681)
+![オタク](https://img.shields.io/badge/ギャルゲー-100%25?style=flat&color=%23b63679)
+![推し活](https://img.shields.io/badge/ねこ派-always?style=flat&color=%23e65462)
+![ヲタ芸](https://img.shields.io/badge/中二病-glow!%20%EF%BC%8A?style=flat&color=%23f98c3d)
+![カラオケ](https://img.shields.io/badge/旅行好き-sing%F0%9F%8E%A4?style=flat&color=%23fbbf24)
+![ライブ](https://img.shields.io/badge/ラーメン-going!%F0%9F%91%80?style=flat&color=%23fada79)
+![きらめき](https://img.shields.io/badge/音楽-forever%20~%20%F0%9F%8C%9F?style=flat&color=%23fcfdbf)
 
-Today we ask you to defend the open source independence of the Hugo Blox Builder and themes 🐧
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
 
-### [❤️ Click here to become a Sponsor, unlocking awesome perks such as _exclusive academic templates and blocks_](https://hugoblox.com/sponsor/)
 
-<!--
-<p align="center"><a href="https://hugoblox.com/templates/" target="_blank" rel="noopener"><img src="https://hugoblox.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Hugo Blox Builder"></a></p>
--->
+# ✨初めまして、キラメイと申します！✨
 
-## Demo image credits
+元フルスタック開発者だったんですが、いまは全力で**AI研究**に没頭していますっ🧠🔥\
+とくに画像系や生成モデル、ディープラーニングが大好きです！📸🤖
 
-- [Unsplash](https://unsplash.com)
+実は……ちょっぴり（いや、かなり？）**二次元オタク**でもあります(๑>◡<๑)💖\
+技術と趣味、どちらも全力で生きてます！
 
-## Latest news
+🎓 大学サークル「深セン大学電子協会（SZUEA）」の元会長（2023）やってました！\
+⛩ 千葉大学への留学経験もあります〜✨ 日本だいすき！
 
-<!--START_SECTION:news-->
-* [6 Compelling Reasons I Switched from WordPress to Hugo](https:&#x2F;&#x2F;hugoblox.com&#x2F;vs&#x2F;wordpress&#x2F;)
-* [The 7 best landing page builders in 2024](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;7-best-landing-page-builders&#x2F;)
-* [Start a Blog and Make Money in 2024: Here&#39;s What You Need to Know](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;start-a-blog-and-make-money&#x2F;)
-* [Hugo vs Quarto: Which One is Better for 2024?](https:&#x2F;&#x2F;hugoblox.com&#x2F;vs&#x2F;quarto&#x2F;)
-* [Easily make an academic CV website to get more cites and grow your audience 🚀](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;easily-make-academic-website&#x2F;)
-<!--END_SECTION:news-->
+もし**SZUEA**の活動やお仕事に興味があれば、ぜひご連絡くださいっ📮\
+📧 メールアドレス：[dianxiejun@szuea.com](mailto:dianxiejun@szuea.com)
+
+🔗 SZUEA公式サイト：[szuea.com](https://www.szuea.com)
+🌐 個人サイト：[kiramei.cn](https://kiramei.cn)
+
+これからもよろしくお願いしますっ！₍₍ (ง ˙ω˙)ว ⁾⁾🌟
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiramei&show_icons=true&theme=radical)
+
+
+
+
+</div>
