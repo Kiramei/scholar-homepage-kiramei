@@ -35,22 +35,23 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Kiramei Scholar Site"
+      image: "content/authors/admin/avatar.jpg"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Kiramei.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
-locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+# locale:
+#   date_format: 'Jan 2, 2006'
+#   time_format: '3:04 PM'
 
 # Site features
 features:
