@@ -1,0 +1,118 @@
+cv:
+  name: Chengjie Lu
+  label: AI Researcher
+  location: Shanghai, China
+  image: ""
+  summary: Researcher working across human motion prediction and efficient diffusion models, currently focused on embodied AI and world models.
+
+  social_networks:
+    - network: GitHub
+      username: Kiramei
+
+  sections:
+    Academic Interests:
+      - name: Embodied Intelligence
+        icon: fa-solid fa-robot
+        keywords:
+          - Embodied AI
+          - World Models
+
+      - name: Efficient Generative Models
+        icon: fa-solid fa-bolt
+        keywords:
+          - Diffusion Model Acceleration
+          - Diffusion Transformers
+
+      - name: Human Motion Understanding
+        icon: fa-solid fa-person-running
+        keywords:
+          - 3D Human Motion Prediction
+          - Behavior-aware Representation Learning
+
+    Education:
+      - institution: ShanghaiTech University & Beijing Institute for General Artificial Intelligence (BIGAI)
+        location: Shanghai & Beijing, China
+        url: https://www.shanghaitech.edu.cn/eng/
+        area: Joint Training Program · Current
+        studyType: Joint PhD Student
+        start_date: 2026
+        end_date: 2031
+
+      - institution: Shenzhen University
+        location: Shenzhen, China
+        url: https://www.szu.edu.cn/
+        area: College of Electronic Information Engineering
+        studyType: Undergraduate
+        start_date: 2022-09
+        end_date: 2026-07
+
+      - institution: Chiba University
+        location: Chiba, Japan
+        url: https://www.chiba-u.jp/e/
+        area: College of Liberal Arts and Sciences
+        studyType: Short-term Exchange Student
+        start_date: 2024-10
+        end_date: 2025-01
+
+    Publications:
+      - title: "ChebBooster: A Training-Free Approach for Efficient Diffusion Transformer Inference via Chebyshev-Inspired Extrapolation"
+        authors:
+          - Chengjie Lu
+          - Tianchi Deng
+          - Zhengqi He
+          - Chengwen Luo
+          - Xueliang Li
+        publisher: arXiv preprint arXiv:2608.23429
+        releaseDate: 2026-08-24
+        url: https://arxiv.org/abs/2608.23429
+
+      - title: Learning Behavior Aware Features Across Spaces for Improved 3D Human Motion Prediction
+        authors:
+          - Ruiya Ji
+          - Chengjie Lu
+          - Zhao Huang
+          - Jianqi Zhong
+        publisher: Scientific Reports
+        releaseDate: 2025-08-04
+        url: https://doi.org/10.1038/s41598-025-11073-z
+
+      - title: A Dual-Path Attention Fourier Convolutional Network for Human Motion Prediction
+        authors:
+          - Chengjie Lu
+        publisher: International Journal of Current Research in Science, Engineering & Technology
+        releaseDate: 2025-04-21
+        url: https://doi.org/10.30967/ijcrset/chengjie-lu/177
+
+      - title: Dynamic Differencing-Based Hybrid Network for Improved 3D Skeleton-Based Motion Prediction
+        authors:
+          - Ruiya Ji
+          - Chengjie Lu
+          - Jianqi Zhong
+        publisher: AI
+        releaseDate: 2024-12-11
+        url: https://doi.org/10.3390/ai5040139
+
+      - title: Multi-Space Behavior-Sensitive Feature Learning for 3D Skeleton-Based Human Motion Prediction
+        authors:
+          - Ruiya Ji
+          - Chengjie Lu
+        publisher: 7th International Conference on Artificial Intelligence and Pattern Recognition
+        releaseDate: 2024-09-20
+        url: https://doi.org/10.1145/3703935.3704064
+
+    Open Source Projects:
+      - name: ChebBooster
+        summary: A training-free acceleration method for diffusion transformers.
+        url: https://github.com/Kiramei/ChebBooster
+
+      - name: BaryCache
+        summary: A memory-efficient cache acceleration method for diffusion transformers.
+        url: https://github.com/Kiramei/BaryCache
+
+      - name: DAFCN
+        summary: Official implementation of the Dual-Path Attention Fourier Convolutional Network.
+        url: https://github.com/Kiramei/DAFCN
+
+      - name: CBFL
+        summary: Official implementation of behavior-aware feature learning across spaces for 3D human motion prediction.
+        url: https://github.com/Kiramei/CBFL

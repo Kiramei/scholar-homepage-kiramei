@@ -1,0 +1,6 @@
+Academicons 1.9.5 by James Walsh (https://github.com/jpswalsh/academicons)
+
+The Academicons font is licensed under the SIL Open Font License,
+Version 1.1. The complete OFL 1.1 text is distributed alongside this
+file in LICENSE-Maple-Mono.txt and is also available at:
+https://openfontlicense.org
